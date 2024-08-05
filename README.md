@@ -35,7 +35,7 @@
 
 1. **Clonar o Repositório**
    ```bash
-   git clone https://github.com/seu-usuario/power-bi-iniciante.git
+   https://app.powerbi.com/groups/me/reports/621c584a-4a1f-481f-bb6a-5558b0e11319/ReportSection?experience=power-bi
 <BR>
 <P>Nome: VERUSCA SCHIMMELS><BR>
 Email: veruscaschimmels46@gmail.com</P>
