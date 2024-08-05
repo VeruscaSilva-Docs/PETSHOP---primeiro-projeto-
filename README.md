@@ -40,6 +40,8 @@
 <P>Nome: VERUSCA SCHIMMELS><BR>
 Email: veruscaschimmels46@gmail.com</P>
 
+![image](https://github.com/user-attachments/assets/12ea4c03-8326-4341-95e1-6a300075c11d)
+
 <BR>
 
 
